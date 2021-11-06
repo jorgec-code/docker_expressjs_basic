@@ -5,7 +5,7 @@
 ### Youtube channel: Jorge C
 
 
-These are the commands needed to create an IMAGE and a CONTAINER
+These are the commands needed to create a Docker image and a container
 
 
 ## Image
