@@ -2,7 +2,7 @@
 
 ## Building an image and container using an Expressjs project
 
-### Youtube channel: Jorge C
+### Youtube channel: Jorge C - https://youtu.be/GLnfvFXpM7k
 
 
 These are the commands needed to create a Docker image and a container
